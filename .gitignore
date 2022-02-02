@@ -73,3 +73,5 @@ typings/
 .vscode/
 
 .firebase/hosting..cache
+
+package-lock.json
