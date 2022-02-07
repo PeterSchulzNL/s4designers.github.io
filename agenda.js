@@ -49,7 +49,7 @@ agenda.program =
       ],
     }, 
     { date: "Tuesday Feb 8th",
-      title: "[chapter 5 – russian dolls for data: variables _inside_ variables](/ch5-variables-inside-variables/index.html')",
+      title: "[chapter 5 – russian dolls for data: variables _inside_ variables](/ch5-variables-inside-variables/index.html)",
       content: [
         "assignments 5.2—5.12",
       ],
