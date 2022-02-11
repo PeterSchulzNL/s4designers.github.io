@@ -1,6 +1,6 @@
 const agenda = {}
 
-agenda.currentLesson = [2,3]  // [ week, lesson in week ] 1-based 
+agenda.currentLesson = [3,1]  // [ week, lesson in week ] 1-based 
 
 // All strings in this data will be preprocessed by a Markdown converter.
 // So you can use **bold**, _italic_ and [hyperlinks](http://www.example.com).
@@ -62,14 +62,18 @@ agenda.program =
       ],
     }, 
     { date: "Thursday Feb 10th",
+    title: "_uitgevallen_",
+      content: [],
+    },
+  ], 
+  [
+    { date: "Monday Feb 14th",
       title: "[chapter 7 – how functions communicate: _parameters_ and _return values_](/ch7-more-about-functions/index.html)",
       content: [
         "assignments 7.2—7.11 ",
       ],
-    }
-  ], 
-  [
-    { date: "Monday Feb 14th",
+    },
+    { date: "Tuesday Feb 15th",
       title: "[chapter 8 – _true_, _false_, and choosing with _if-statements_](/ch8-true-false-if/index.html)",
       content: [
         `from ch7: assignment 7.12, 
@@ -77,21 +81,24 @@ agenda.program =
         "assignments 8.1—8.6",
       ],
     }, 
-    { date: "Tuesday Feb 15th",
+    { date: "Wednesday Feb 16th",
       title: "[chapter 8 – _true_, _false_, and choosing with _if-statements_ (continued)](/ch8-true-false-if/index.html)",
       content: [
         "assignments 8.6—8.12",
       ],
     },
-    { date: "Wednesday Feb 16th",
+    { date: "Thursday Feb 17th",
       title: "[chapter 9 – more about if-statements and _conditions_](/ch9-more-if-conditions/index.html)",
       content: [
         "video's 9a en 9b,",
         "_aandachtig lezen:_ tekstblok over logical operators,",
         "asignments 9.1—9.8",
       ],
-    },{
-      date: "Thursday Feb 17th",
+    },
+  ],
+  [
+    {
+      date: "Monday Feb 21th",
       title: "[chapter 10 – more about functions: _local variables_ and _side effects_](/ch10-locals-and-side-effects/index.html)",
       content: [
         "**extra:** opdracht 9.5 als je die nog niet goed of af had",
@@ -101,9 +108,12 @@ agenda.program =
         "opdracht 10.5",
       ],
     },
-  ],
-  [
-    { date: "Monday Feb 21th",
+    { 
+      date: "Tuesday Feb 22st",
+      title: "_vervalt_",
+      content: [],
+    },{
+      date: "Wednesday Feb 23nd",
       title: "[ch.10 _continued_](/ch10-locals-and-side-effects/index.html) and [chapter 11 – fun with data types](/ch11-fun-with-datatypes/index.html)",
       content: [
         "opdrachten 10.4—10.7",
@@ -112,13 +122,10 @@ agenda.program =
         "opdrachten 11.2 and 11.3",
       ],
     },
-    { date: "Tuesday Feb 22st",
-    title: "_vervalt_",
-      content: [],
-    },
-    { date: "Wednesday Feb 23nd",
-    title: "[ch.11 _continued_](/ch11-fun-with-datatypes/index.html), and [chapter 12 – recap](/ch12-recap/index.html)",
-    content: [
+    {
+      date: "Thursday Feb 24rd",
+      title: "[ch.11 _continued_](/ch11-fun-with-datatypes/index.html), and [chapter 12 – recap](/ch12-recap/index.html)",
+      content: [
         "opdrachten 11.3—11.6",
         "leeswerk: [What is a concept map?](https://cmap.ihmc.us/docs/conceptmap.php) (alleen inleiding),",
         "leeswerk: [How people learn](https://cmap.ihmc.us/docs/howpeoplelearn.php) (helemaal, is kort),",
@@ -126,36 +133,39 @@ agenda.program =
         "opdrachten 12.1 and 12.2",
       ],
     },
-    { date: "Thursday Feb 24rd",
-    title: "[ch.12 _continued_](/ch12-recap/index.html) and [chapter 13 – loops](/ch13-loops/index.html)",
-    content: [
-      "opdrachten 12.3—12.5 ",
-      "assignments 13.1—13.5",
-      "read carefully: the text box about for-loops",
-    ],
-  },
   ],
   [
-    { date: "Monday Mar 7th",
+    {
+      date: "Monday Mar 7th",
+      title: "[ch.12 _continued_](/ch12-recap/index.html) and [chapter 13 – loops](/ch13-loops/index.html)",
+      content: [
+        "opdrachten 12.3—12.5 ",
+        "assignments 13.1—13.5",
+        "read carefully: the text box about for-loops",
+      ],
+    },
+    { date: "Tuesday Mar 8th",
     title: "[chapter 13 – loops for repeating commands](/ch13-loops/index.html)",
     content: [
       "assignments 13.6—13.8",
     ],
   },
-    { date: "Tuesday Mar 8th",
+    { date: "Wednesday Mar 9th",
       title: "[chapter 13 – loops _(continued)_](/ch13-loops/index.html) and [chapter 14 – visuals](/ch14-canvas-animation/index.html)",
       content: [
         "assignments 13.9—13.10 (_niet 13.11_)",
         "assignments 14.1—14.2",
       ],
     },
-    { date: "Wednesday Mar 9th",
+    { date: "Thursday Mar 10th",
       title: "[chapter 14 – visuals with canvas and animation _(continued)_](/ch14-canvas-animation/index.html)",
       content: [
         "assignments 14.3 tot 14.6",
       ],
     },
-    { date: "Thursday Mar 10th",
+  ],
+  [
+    { date: "Monday Mar 14th",
       title: "[chapter 14 – animation _(continued)_](/ch14-canvas-animation/index.html) and [chapter 15 – methods](/ch15-methods/index.html)",
       content: [
         // "oefening 14.2 (als je die nog niet hebt) ",
@@ -164,9 +174,7 @@ agenda.program =
 
       ],
     },
-  ],
-  [
-    { date: "Monday Mar 14th",
+    { date: "Tuesday Mar 15th",
     title: "[chapter 15 – active objects do it with _methods_ _(continued)_](/ch15-methods/index.html)",
     content: [
       "assignments 15.8—15.11",
