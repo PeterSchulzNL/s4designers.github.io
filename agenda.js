@@ -158,6 +158,7 @@ agenda.program =
     title: "[chapter 13 – loops for repeating commands](/ch13-loops/index.html)",
     content: [
       "assignments 13.6—13.8",
+      "assignments 13.9—13.10 (_niet 13.11_)",
     ],
   },
   ],
