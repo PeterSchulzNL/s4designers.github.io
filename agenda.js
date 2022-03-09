@@ -1,6 +1,6 @@
 const agenda = {}
 
-agenda.currentLesson = [4,4]  // [ week, lesson in week ] 1-based 
+agenda.currentLesson = [5,4]  // [ week, lesson in week ] 1-based 
 
 // All strings in this data will be preprocessed by a Markdown converter.
 // So you can use **bold**, _italic_ and [hyperlinks](http://www.example.com).
@@ -149,28 +149,33 @@ agenda.program =
         "read carefully: the text box about for-loops",
       ],
     },
-    { date: "Wednesday Mar 9th",
+    { 
+      date: "Wednesday Mar 9th",
+      title: "_vervalt_",
+      content: [],
+    },
+    { date: "Thursday Mar 10th",
     title: "[chapter 13 – loops for repeating commands](/ch13-loops/index.html)",
     content: [
       "assignments 13.6—13.8",
     ],
   },
-    { date: "Thursday Mar 10th",
+  ],
+  [
+    { date: "Monday Mar 14th",
       title: "[chapter 13 – loops _(continued)_](/ch13-loops/index.html) and [chapter 14 – visuals](/ch14-canvas-animation/index.html)",
       content: [
         "assignments 13.9—13.10 (_niet 13.11_)",
         "assignments 14.1—14.2",
       ],
     },
-  ],
-  [
-    { date: "Monday Mar 14th",
+    { date: "Tuesday Mar 15th",
       title: "[chapter 14 – visuals with canvas and animation _(continued)_](/ch14-canvas-animation/index.html)",
       content: [
         "assignments 14.3 tot 14.6",
       ],
     },
-    { date: "Tuesday Mar 15th",
+    { date: "Wednesday Mar 16th",
       title: "[chapter 14 – animation _(continued)_](/ch14-canvas-animation/index.html) and [chapter 15 – methods](/ch15-methods/index.html)",
       content: [
         // "oefening 14.2 (als je die nog niet hebt) ",
@@ -179,7 +184,7 @@ agenda.program =
 
       ],
     },
-    { date: "Wednesday Mar 16th",
+    { date: "Thursday Mar 17th",
     title: "[chapter 15 – active objects do it with _methods_ _(continued)_](/ch15-methods/index.html)",
     content: [
       "assignments 15.8—15.11",
