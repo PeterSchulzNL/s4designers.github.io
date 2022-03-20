@@ -192,41 +192,39 @@ agenda.program =
     ],
   },
 
-  ]
-  // [
-  //   { date: "Monday Oct. 4th",
-  //     title: "[chapter 16 – final assignment _javascript_: Battleships](_javascript-battleships_index.html)",
-  //     content: [
-  //       // "9:00—9:30: video 15c en assignment 15.8",
-  //       // "assignments 15.9—15.11",
-  //       "_introductie Battle Ships eindopdracht_",
-  //       "Video battleships code walkthrough",
-  //       "assignments 16.1 and 16.2",
-  //     ],
-  //   },
-    // { date: "Tuesday Oct. 5th",
-    //   title: "[chapter 16 – final assignment _javascript_: Battleships](/javascript-battleships/index.html)",
-    //   content: [
-    //     "regular meeting schedule where we support making the assignment",
-    //   ],
-    // },
-    // { date: "Wednesday Oct. 6th",
-    //   title: "",
-    //   content: [
-    //     "regular meeting schedule where we support making the assignment",
-    //   ],
-    // },
-    // { date: "Thursday Oct. 7th",
-    //   title: "",
-    //   content: [
-    //     "regular meeting schedule where we support making the assignment",
-    //   ],
-    // },
-  //   { date: "_Sunday_ Oct. 10th",
-  //     title: "23:00: _deadline_ [Zeeslag](/javascript-battleships/index.html)",
-  //     content: [],
-  //   }
-  // ],
+  ],
+  [
+    { date: "Monday Mar 21th",
+      title: "[chapter 16 – final assignment _javascript_: Battleships](/javascript-battleships/index.html)",
+      content: [
+        "_introductie Battle Ships eindopdracht_",
+        "Video battleships code walkthrough",
+        "assignments 16.1 and 16.2",
+      ],
+    },
+    { date: "Tuesday Mar 22th",
+      title: "[chapter 16 – final assignment _javascript_: Battleships](/javascript-battleships/index.html)",
+      content: [
+        "regular meeting schedule where we support making the assignment",
+      ],
+    },
+    { date: "Wednesday Mar 23th",
+      title: "",
+      content: [
+        "regular meeting schedule where we support making the assignment",
+      ],
+    },
+    { date: "Thursday Mar 24th",
+      title: "",
+      content: [
+        "regular meeting schedule where we support making the assignment",
+      ],
+    },
+    { date: "_Sunday_ Mar 27th",
+      title: "23:00: _deadline_ [Zeeslag](/javascript-battleships/index.html)",
+      content: [],
+    }
+  ],
   // [
   //   { date: "Monday Oct. 11th",
   //     title: "[chapter 17 – final assignment _Arduino_: Inbraakalarm](/arduino-burglar-alarm/index.html)",
