@@ -225,34 +225,34 @@ agenda.program =
       content: [],
     }
   ],
-  // [
-  //   { date: "Monday Oct. 11th",
-  //     title: "[chapter 17 – final assignment _Arduino_: Inbraakalarm](/arduino-burglar-alarm/index.html)",
-  //     content: [
-  //       "regular meeting schedule where we support making the assignment",
-  //     ],
-  //   },
-    // { date: "Tuesday Oct. 12th",
-    //   title: "",
-    //   content: [
-    //     "regular meeting schedule where we support making the assignment",
-    //   ],
-    // },
-    // { date: "Wednesday Oct. 13th",
-    //   title: "",
-    //   content: [
-    //     "regular meeting schedule where we support making the assignment",
-    //   ],
-    // },
-    // { date: "Thursday Oct. 14th",
-    //   title: "",
-    //   content: [
-    //     "regular meeting schedule where we support making the assignment",
-    //   ],
-    // },
-  //   { date: "Sunday Oct. 17th",
-  //     title: "23:00: _deadline_ [Inbraakalarm](/arduino-burglar-alarm/index.html)",
-  //     content: [],
-  //   }
-  // ]
+  [
+    { date: "Monday Mar 28th",
+      title: "[chapter 17 – final assignment _Arduino_: Inbraakalarm](/arduino-burglar-alarm/index.html)",
+      content: [
+        "regular meeting schedule where we support making the assignment",
+      ],
+    },
+    { date: "Tuesday Mar 29th",
+      title: "",
+      content: [
+        "regular meeting schedule where we support making the assignment",
+      ],
+    },
+    { date: "Wednesday Mar 30th",
+      title: "",
+      content: [
+        "regular meeting schedule where we support making the assignment",
+      ],
+    },
+    { date: "Thursday Mar 31th",
+      title: "",
+      content: [
+        "regular meeting schedule where we support making the assignment",
+      ],
+    },
+    { date: "Sunday Apr 3th",
+      title: "23:00: _deadline_ [Inbraakalarm](/arduino-burglar-alarm/index.html)",
+      content: [],
+    }
+  ]
 ]
