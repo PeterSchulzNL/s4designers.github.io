@@ -22,7 +22,7 @@ agenda.program = [
       ]
     }
   ],
-  [
+  [ // week 1
     {
       date: 'Monday Aug 29st',
       title:
@@ -60,7 +60,7 @@ agenda.program = [
       ]
     }
   ],
-  [
+  [ // week 2
     {
       date: 'Monday Sep 5th',
       title:
@@ -98,7 +98,7 @@ agenda.program = [
       ]
     }
   ],
-  [
+  [ // week 3
     {
       date: 'Monday Sep 12th',
       title:
@@ -142,7 +142,7 @@ agenda.program = [
       ]
     }
   ],
-  [
+  [ // week 4
     {
       date: 'Monday Sep 19th',
       title: '[chapter 12 – recap](/ch12-recap/index.html)',
@@ -154,7 +154,14 @@ agenda.program = [
       ]
     },
     {
-      date: 'Monday Sep 19th',
+      date: 'Tuesday Sep 20th',
+      title: '[chapter 12 – recap](/ch12-recap/index.html)',
+      content: [
+        'Finish assignments'
+      ]
+    },
+    {
+      date: 'Wednesday Sep 21th',
       title: '[chapter 13 – loops](/ch13-loops/index.html)',
       content: [
         'Assignments 13.2—13.3',
@@ -163,33 +170,50 @@ agenda.program = [
       ]
     },
     {
-      date: 'Monday Sep 20th',
+      date: 'Thursday Sep 22th',
       title:
-        '[chapter 13 – loops _(continued)_](/ch13-loops/index.html) and [chapter 14 – visuals](/ch14-canvas-animation/index.html)',
+        '[chapter 13 – loops _(continued)_](/ch13-loops/index.html)',
       content: [
-        'Assignments 13.8—13.12 (_niet 13.11_)'
+        'Assignments 13.8—13.12 (skip 13.11)'
+      ]
+    }
+  ],
+  
+  [ // week 5
+    {
+      date: 'Monday Sep 26th',
+      title:
+        '[chapter 14 – visuals with canvas and animation _(continued)_](/ch14-canvas-animation/index.html)',
+      content: [
+        'Assignments 14.1 tot 14.5'
       ]
     },
     {
-      date: 'Tuesday Sep 21th',
+      date: 'Tuesday Sep 27th',
       title:
-        '[chapter 14 – visuals with canvas and animation _(continued)_](/ch14-canvas-animation/index.html)',
-      content: ['Assignments 14.1 tot 14.6']
+        '[chapter 14 – animation _(continued)_](/ch14-canvas-animation/index.html)',
+      content: [
+        'Assignments 14.6—14.8'
+      ]
     },
     {
-      date: 'Wednesday Sep 22th',
+      date: 'Wednesday Sep 28th',
       title:
-        '[chapter 14 – animation _(continued)_](/ch14-canvas-animation/index.html) and [chapter 15 – methods](/ch15-methods/index.html)',
-      content: ['Assignments 14.7—14.8', 'Assignments 15.1—15.7']
+        '[chapter 15 – active objects do it with _methods_ _(continued)_](/ch15-methods/index.html)',
+      content: [
+        'Assignments 15.1—15.7'
+      ]
     },
     {
       date: 'Thursday Sep 29th',
       title:
         '[chapter 15 – active objects do it with _methods_ _(continued)_](/ch15-methods/index.html)',
-      content: ['Assignments 15.8—15.11']
+      content: [
+        'Assignments 15.8—15.11'
+      ]
     }
   ],
-  [
+  [ // week 6
     {
       date: 'Monday Oct 3th',
       title:
@@ -226,7 +250,7 @@ agenda.program = [
       content: []
     }
   ],
-  [
+  [ // week 7
     {
       date: 'Monday Oct 10th',
       title:
