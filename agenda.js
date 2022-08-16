@@ -9,10 +9,22 @@ agenda.program =
 [ // The progam is an array of weeks.
   [ // A week is just an array of lesson-objects.
     {  // A lesson is an object.
-      date: "Monday Jan 31th",
+      date: "Thursday Aug 25th",
       title: "Kick-off", // title is optional
       content: [ // content is optional, can also be a single string.
         "Kick-off",
+        "Getting the Arduino to work with your laptop",
+        "Getting your browser to work with mail-links",
+        "Start with [chapter 1 – introduction to the Arduino](/ch1-intro-arduino/index.html)",
+      ]
+    } 
+  ],
+  [
+    {
+      date: "Monday Jan 31th",
+      title: "Kick-off",
+      content: [
+        "Kick-off?",
         "Getting the Arduino to work with your laptop",
         "Getting your browser to work with mail-links",
         "Start with [chapter 1 – introduction to the Arduino](/ch1-intro-arduino/index.html)",
