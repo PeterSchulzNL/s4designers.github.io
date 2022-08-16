@@ -141,6 +141,7 @@ agenda.program = [
         "Assignments 13.1—13.10",
         "read carefully: the text box about for-loops",
       ],
+    },
     {
       date: "Monday Sep 20th",
       title:
