@@ -44,7 +44,7 @@ agenda.program = [
     {
       date: 'Wednesday Aug 31',
       title:
-        '[chapter 3 – interactivity in JavaScript with _functions_](/ch3-interactivity-functions/index.html)',
+        '[chapter 3 – interactivity in JavaScript with functions](/ch3-interactivity-functions/index.html)',
       content: [
         'Assignments 3.3—3.11',
         'Assignment 3.12 is left for the next lesson'
@@ -53,7 +53,7 @@ agenda.program = [
     {
       date: 'Thursday Sep 1',
       title:
-        '[chapter 4 – calculations and storing results in _variables_](/ch4-calculations-variables/index.html)',
+        '[chapter 4 – calculations and storing results in variables](/ch4-calculations-variables/index.html)',
       content: [
         'Assignment 3.12', 
         'Assignments 4.2—4.7'
@@ -64,7 +64,7 @@ agenda.program = [
     {
       date: 'Monday Sep 5',
       title:
-        '[chapter 5 – russian dolls for data: variables _inside_ variables](/ch5-variables-inside-variables/index.html)',
+        '[chapter 5 – russian dolls for data: variables inside variables](/ch5-variables-inside-variables/index.html)',
       content: [
         'Assignments 5.2—5.12'
       ]
@@ -72,7 +72,7 @@ agenda.program = [
     {
       date: 'Tuesday Sep 6',
       title:
-        "[chapter 6 – _debugging_ code that doesn't work](/ch6-debugging/index.html)",
+        "[chapter 6 – debugging code that doesn't work](/ch6-debugging/index.html)",
       content: [
         'Assignments 6.2—6.5',
         'Bonus: Assignment 6.6 if you have the time'
@@ -81,7 +81,7 @@ agenda.program = [
     {
       date: 'Wednesday Sep 7',
       title:
-        '[chapter 7 – how functions communicate: _parameters_ and _return values_](/ch7-more-about-functions/index.html)',
+        '[chapter 7 – how functions communicate: parameters and return values](/ch7-more-about-functions/index.html)',
       content: [
         'Assignments 7.2—7.11'
       ]
@@ -89,7 +89,7 @@ agenda.program = [
     {
       date: 'Thursday Sep 8',
       title:
-        '[chapter 7](/ch7-more-about-functions/index.html) and [chapter 8 – _true_, _false_, and choosing with _if-statements_](/ch8-true-false-if/index.html)',
+        '[chapter 7](/ch7-more-about-functions/index.html) and [chapter 8 – true, false, and choosing with if-statements](/ch8-true-false-if/index.html)',
       content: [
         'First: Assignment 8.2',
         'Then: Assignment 7.12',
@@ -102,7 +102,7 @@ agenda.program = [
     {
       date: 'Monday Sep 12',
       title:
-        '[chapter 8 – _true_, _false_, and choosing with _if-statements_](/ch8-true-false-if/index.html)',
+        '[chapter 8 – true, false, and choosing with if-statements  _(continued)_](/ch8-true-false-if/index.html)',
       content: [
         'Assignments 8.7—8.12'
       ]
@@ -110,7 +110,7 @@ agenda.program = [
     {
       date: 'Tuesday Sep 13',
       title:
-        '[chapter 9 – more about if-statements and _conditions_](/ch9-more-if-conditions/index.html)',
+        '[chapter 9 – more about if-statements and conditions](/ch9-more-if-conditions/index.html)',
       content: [
         "Videos 9a and 9b",
         'Read textblock about logical operators',
@@ -122,7 +122,7 @@ agenda.program = [
     {
       date: 'Wednesday Sep 14',
       title:
-        '[chapter 10 – more about functions: _local variables_ and _side effects_](/ch10-locals-and-side-effects/index.html)',
+        '[chapter 10 – more about functions: local variables and side effects](/ch10-locals-and-side-effects/index.html)',
       content: [
         "Video 10a",
         "Assignments 9.7 and 9.8., if not finished",
@@ -217,9 +217,9 @@ agenda.program = [
     {
       date: 'Monday Oct 3',
       title:
-        '[chapter 16 – final assignment _javascript_: Battleships](/javascript-battleships/index.html)',
+        '[chapter 16 – final assignment javascript: Battleships](/javascript-battleships/index.html)',
       content: [
-        '_introduction Battle Ships assignment_',
+        'introduction Battle Ships assignment',
         'Video battleships code walkthrough'
       ]
     },
@@ -245,8 +245,8 @@ agenda.program = [
       ]
     },
     {
-      date: '_Sunday_ Oct 9',
-      title: '23:00: _deadline_ [Zeeslag](/javascript-battleships/index.html)',
+      date: 'Sunday Oct 9',
+      title: '23:00: deadline [Zeeslag](/javascript-battleships/index.html)',
       content: []
     }
   ],
@@ -254,8 +254,8 @@ agenda.program = [
     {
       date: 'Monday Oct 10',
       title:
-        '[chapter 17 – final assignment _Arduino_: Inbraakalarm](/arduino-burglar-alarm/index.html)',
-      content: ['_introduction Arduino Alarm assignment_']
+        '[chapter 17 – final assignment Arduino: Inbraakalarm](/arduino-burglar-alarm/index.html)',
+      content: ['introduction Arduino Alarm assignment']
     },
     {
       date: 'Tuesday Oct 11',
@@ -281,7 +281,7 @@ agenda.program = [
     {
       date: 'Sunday Oct 16',
       title:
-        '23:00: _deadline_ [Inbraakalarm](/arduino-burglar-alarm/index.html)',
+        '23:00: deadline [Inbraakalarm](/arduino-burglar-alarm/index.html)',
       content: []
     }
   ]
