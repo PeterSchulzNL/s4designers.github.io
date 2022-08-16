@@ -20,35 +20,32 @@ agenda.program =
     } 
   ],
   [
-    {
-      date: "Monday Jan 31th",
-      title: "Kick-off",
-      content: [
-        "Kick-off?",
-        "Getting the Arduino to work with your laptop",
-        "Getting your browser to work with mail-links",
-        "Start with [chapter 1 – introduction to the Arduino](/ch1-intro-arduino/index.html)",
-      ]
-    },
-    { date: "Tuesday Feb 1st",
+    { date: "Monday Aug 29st",
       title: "[chapter 1 – introduction to the Arduino](/ch1-intro-arduino/index.html)",
       content: [
         "Assignments 1.3—1.10",
         "_assignment 1.11 is left for the next day_",
       ]
     }, 
-    { date: "Wednesday Feb 2st",
+    { date: "Tuesday Aug 30st",
       title: "[chapter 2 – intro to JavaScript](/ch2-intro-javascript/index.html)",
       content: [
         "assignment 1.11 of [chapter 1](/ch1-intro-arduino/index.html)",
         "assignments 2.3—2.10",
       ]
     }, 
-    { date: "Thursday Feb 3nd",
+    { date: "Wednesday Aug 31nd",
       title: "[chapter 3 – interactivity in JavaScript with _functions_](/ch3-interactivity-functions/index.html)",
       content: [
         "Assignments 3.3—3.11",
         "_(assignment 3.12 is left for the next lesson)_",
+      ],
+    }, 
+    { date: "Thursday Sep 1th",
+      title: "[chapter 4 – calculations and storing results in _variables_](/ch4-calculations-variables/index.html)",
+      content: [
+        "Assignment 3.12",
+        "Assignments 4.2—4.7",
       ],
     }, 
   ],
