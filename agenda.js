@@ -83,7 +83,7 @@ agenda.program = [
       title:
         '[chapter 7 – how functions communicate: _parameters_ and _return values_](/ch7-more-about-functions/index.html)',
       content: [
-        'Assignments 7.2—7.11 '
+        'Assignments 7.2—7.11'
       ]
     },
     {
@@ -113,49 +113,53 @@ agenda.program = [
         '[chapter 9 – more about if-statements and _conditions_](/ch9-more-if-conditions/index.html)',
       content: [
         "Videos 9a and 9b",
-        'Read: textblock about logical operators',
+        'Read textblock about logical operators',
         "Assignments 9.2, and 9.3",
         "Assignments 8.10 - 8.11, if not finished",
-        "Asignments 9.4 - 9.8",
+        "Asignments 9.4 - 9.8"
       ]
     },
     {
-      date: 'Tuesday Sep 13th',
+      date: 'Wednesday Sep 14th',
       title:
         '[chapter 10 – more about functions: _local variables_ and _side effects_](/ch10-locals-and-side-effects/index.html)',
       content: [
-        'Assignments 10.1—10.7',
-        'Read: textblock about side effects versus return values'
+        "Video 10a",
+        "Assignments 9.7 and 9.8., if not finished",
+        "Video 10b",
+        'Assignments 10.2—10.4',
+        'Read textblock about side effects versus return values',
+        'Assignments 10.5—10.7'
       ]
     },
     {
-      date: 'Wednesday Sep 14rd',
+      date: 'Thursday Sep 15rd',
       title:
         '[chapter 11 – fun with data types](/ch11-fun-with-datatypes/index.html)',
       content: [
-        'opdrachten 11.1,',
-        '_aandachtig lezen:_ tekstblok over datatypes,',
-        'opdrachten 11.2 and 11.6'
-      ]
-    },
-    {
-      date: 'Thursday Sep 15th',
-      title: '[chapter 12 – recap](/ch12-recap/index.html)',
-      content: [
-        'leeswerk: [What is a concept map?](https://cmap.ihmc.us/docs/conceptmap.php) (alleen inleiding),',
-        'leeswerk: [How people learn](https://cmap.ihmc.us/docs/howpeoplelearn.php) (helemaal, is kort),',
-        'instruction-box over installeren CMap tools,',
-        'opdrachten 12.1 and 12.5'
+        'Read textblock about datatypes,',
+        'Assignments 11.2 and 11.6'
       ]
     }
   ],
   [
     {
       date: 'Monday Sep 19th',
+      title: '[chapter 12 – recap](/ch12-recap/index.html)',
+      content: [
+        'Read: [What is a concept map?](https://cmap.ihmc.us/docs/conceptmap.php) (alleen inleiding),',
+        'Read: [How people learn](https://cmap.ihmc.us/docs/howpeoplelearn.php) (helemaal, is kort),',
+        'Instruction-box about installing CMap tools,',
+        'Assignments 12.1 and 12.5'
+      ]
+    },
+    {
+      date: 'Monday Sep 19th',
       title: '[chapter 13 – loops](/ch13-loops/index.html)',
       content: [
-        'Assignments 13.1—13.10',
-        'read carefully: the text box about for-loops'
+        'Assignments 13.2—13.3',
+        'Read carefully the text box about for-loops',
+        'Assignments 13.4—13.7'
       ]
     },
     {
@@ -163,8 +167,7 @@ agenda.program = [
       title:
         '[chapter 13 – loops _(continued)_](/ch13-loops/index.html) and [chapter 14 – visuals](/ch14-canvas-animation/index.html)',
       content: [
-        'Assignments 13.9—13.10 (_niet 13.11_)',
-        'Assignments 14.1—14.2'
+        'Assignments 13.8—13.12 (_niet 13.11_)'
       ]
     },
     {
