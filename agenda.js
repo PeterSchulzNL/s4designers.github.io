@@ -141,20 +141,8 @@ agenda.program = [
         "Assignments 13.1—13.10",
         "read carefully: the text box about for-loops",
       ],
-    },
     {
-      date: "Tuesday Sep 20th",
-      title:
-        "[chapter 13 – loops for repeating commands](/ch13-loops/index.html)",
-      content: [
-        "Assignments 13.6—13.8",
-        "Assignments 13.9—13.10 (_niet 13.11_)",
-      ],
-    },
-  ],
-  [
-    {
-      date: "Monday Sep 26th",
+      date: "Monday Sep 20th",
       title:
         "[chapter 13 – loops _(continued)_](/ch13-loops/index.html) and [chapter 14 – visuals](/ch14-canvas-animation/index.html)",
       content: [
@@ -163,13 +151,13 @@ agenda.program = [
       ],
     },
     {
-      date: "Tuesday Sep 27th",
+      date: "Tuesday Sep 21th",
       title:
         "[chapter 14 – visuals with canvas and animation _(continued)_](/ch14-canvas-animation/index.html)",
-      content: ["Assignments 14.3 tot 14.6"],
+      content: ["Assignments 14.1 tot 14.6"],
     },
     {
-      date: "Wednesday Sep 28th",
+      date: "Wednesday Sep 22th",
       title:
         "[chapter 14 – animation _(continued)_](/ch14-canvas-animation/index.html) and [chapter 15 – methods](/ch15-methods/index.html)",
       content: [
