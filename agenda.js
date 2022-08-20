@@ -26,19 +26,19 @@ agenda.program = [
     {
       date: 'Monday Aug 29',
       title:
-        '[chapter 1 – introduction to the Arduino](/ch1-intro-arduino/index.html)',
+        '[chapter 2 – intro to JavaScript](/ch2-intro-javascript/index.html)',
       content: [
-        'Assignments 1.3—1.10',
-        'Assignment 1.11 is left for the next day'
+        'Assignment 1.11 of [chapter 1](/ch1-intro-arduino/index.html)',
+        'Assignments 2.3—2.10'
       ]
     },
     {
       date: 'Tuesday Aug 30',
       title:
-        '[chapter 2 – intro to JavaScript](/ch2-intro-javascript/index.html)',
+        '[chapter 1 – introduction to the Arduino](/ch1-intro-arduino/index.html)',
       content: [
-        'Assignment 1.11 of [chapter 1](/ch1-intro-arduino/index.html)',
-        'Assignments 2.3—2.10'
+        'Assignments 1.3—1.10',
+        'Assignment 1.11 is left for the next day'
       ]
     },
     {

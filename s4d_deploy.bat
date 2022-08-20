@@ -1,1 +1,0 @@
-firebase --config=firebase-production.json deploy --project=production
