@@ -16,9 +16,8 @@ agenda.program = [
       content: [
         // content is optional, can also be a single string.
         'Kick-off',
-        'Getting the Arduino to work with your laptop',
         'Getting your browser to work with mail-links',
-        'Start with [chapter 1 – introduction to the Arduino](/ch1-intro-arduino/index.html)'
+        'Start with [chapter 2 – intro to JavaScript](/ch2-intro-javascript/index.html)'
       ]
     }
   ],
@@ -36,6 +35,7 @@ agenda.program = [
       title:
         '[chapter 1 – introduction to the Arduino](/ch1-intro-arduino/index.html)',
       content: [
+        'Getting the Arduino to work with your laptop',
         'Assignments 1.3—1.11',
       ]
     },
