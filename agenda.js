@@ -28,7 +28,6 @@ agenda.program = [
       title:
         '[chapter 2 – intro to JavaScript](/ch2-intro-javascript/index.html)',
       content: [
-        'Assignment 1.11 of [chapter 1](/ch1-intro-arduino/index.html)',
         'Assignments 2.3—2.10'
       ]
     },
@@ -37,8 +36,7 @@ agenda.program = [
       title:
         '[chapter 1 – introduction to the Arduino](/ch1-intro-arduino/index.html)',
       content: [
-        'Assignments 1.3—1.10',
-        'Assignment 1.11 is left for the next day'
+        'Assignments 1.3—1.11',
       ]
     },
     {
