@@ -1,26 +1,26 @@
 const agenda = {}
 
-agenda.currentLesson = [2, 1] // [ week, lesson in week ] 1-based
+agenda.currentLesson = [2, 3] // [ week, lesson in week ] 1-based
 
 // All strings in this data will be preprocessed by a Markdown converter.
 // So you can use **bold**, _italic_ and [hyperlinks](http://www.example.com).
 // HTML-tags will work too, and line-breaks inside ``-strings will be converted to <br>.
 agenda.program = [
   // The progam is an array of weeks.
-  [
-    // A week is just an array of lesson-objects.
-    {
-      // A lesson is an object.
-      date: 'Thursday Aug 25',
-      title: 'Kick-off', // title is optional
-      content: [
-        // content is optional, can also be a single string.
-        'Kick-off',
-        'Getting your browser to work with mail-links',
-        'Start with [chapter 2 – intro to JavaScript](/ch2-intro-javascript/index.html)'
-      ]
-    }
-  ],
+  // [
+  //   // A week is just an array of lesson-objects.
+  //   {
+  //     // A lesson is an object.
+  //     date: 'Thursday Aug 25',
+  //     title: 'Kick-off', // title is optional
+  //     content: [
+  //       // content is optional, can also be a single string.
+  //       'Kick-off',
+  //       'Getting your browser to work with mail-links',
+  //       'Start with [chapter 2 – intro to JavaScript](/ch2-intro-javascript/index.html)'
+  //     ]
+  //   }
+  // ],
   [ // week 1
     {
       date: 'Monday Aug 29',
