@@ -1,6 +1,6 @@
 const agenda = {}
 
-agenda.currentLesson = [2, 3] // [ week, lesson in week ] 1-based
+agenda.currentLesson = [4, 1] // [ week, lesson in week ] 1-based
 
 // All strings in this data will be preprocessed by a Markdown converter.
 // So you can use **bold**, _italic_ and [hyperlinks](http://www.example.com).
@@ -87,6 +87,14 @@ agenda.program = [
     {
       date: 'Thursday Sep 8',
       title:
+        'Canceled',
+      content: []
+    }
+  ],
+  [ // week 3
+    {
+      date: 'Monday Sep 12',
+      title:
         '[chapter 7](/ch7-more-about-functions/index.html) and [chapter 8 – true, false, and choosing with if-statements](/ch8-true-false-if/index.html)',
       content: [
         'First: Assignment 8.2',
@@ -94,11 +102,9 @@ agenda.program = [
         "Bonus: 7.12.e, skip this if you don't have the time",
         'Assignments 8.3—8.6'
       ]
-    }
-  ],
-  [ // week 3
+    },
     {
-      date: 'Monday Sep 12',
+      date: 'Tuesday Sep 13',
       title:
         '[chapter 8 – true, false, and choosing with if-statements  _(continued)_](/ch8-true-false-if/index.html)',
       content: [
@@ -106,7 +112,7 @@ agenda.program = [
       ]
     },
     {
-      date: 'Tuesday Sep 13',
+      date: 'Wednesday Sep 14',
       title:
         '[chapter 9 – more about if-statements and conditions](/ch9-more-if-conditions/index.html)',
       content: [
@@ -118,7 +124,7 @@ agenda.program = [
       ]
     },
     {
-      date: 'Wednesday Sep 14',
+      date: 'Thursday Sep 15',
       title:
         '[chapter 10 – more about functions: local variables and side effects](/ch10-locals-and-side-effects/index.html)',
       content: [
@@ -129,20 +135,20 @@ agenda.program = [
         'Read textblock about side effects versus return values',
         'Assignments 10.5—10.7'
       ]
-    },
+    }
+  ],
+  [ // week 4
     {
-      date: 'Thursday Sep 15',
+      date: 'Monday Sep 19',
       title:
         '[chapter 11 – fun with data types](/ch11-fun-with-datatypes/index.html)',
       content: [
         'Read textblock about datatypes,',
         'Assignments 11.2 and 11.6'
       ]
-    }
-  ],
-  [ // week 4
+    },
     {
-      date: 'Monday Sep 19',
+      date: 'Tuesday Sep 20',
       title: '[chapter 12 – recap](/ch12-recap/index.html)',
       content: [
         'Read: [What is a concept map?](https://cmap.ihmc.us/docs/conceptmap.php) (alleen inleiding),',
@@ -152,27 +158,19 @@ agenda.program = [
       ]
     },
     {
-      date: 'Tuesday Sep 20',
+      date: 'Wednesday Sep 21',
       title: '[chapter 12 – recap _(continued)_](/ch12-recap/index.html)',
       content: [
         'Finish assignments'
       ]
     },
     {
-      date: 'Wednesday Sep 21',
+      date: 'Thursday Sep 22',
       title: '[chapter 13 – loops](/ch13-loops/index.html)',
       content: [
         'Assignments 13.2—13.3',
         'Read carefully the text box about for-loops',
         'Assignments 13.4—13.7'
-      ]
-    },
-    {
-      date: 'Thursday Sep 22',
-      title:
-        '[chapter 13 – loops _(continued)_](/ch13-loops/index.html)',
-      content: [
-        'Assignments 13.8—13.12 (skip 13.11)'
       ]
     }
   ],
@@ -181,13 +179,21 @@ agenda.program = [
     {
       date: 'Monday Sep 26',
       title:
+        '[chapter 13 – loops _(continued)_](/ch13-loops/index.html)',
+      content: [
+        'Assignments 13.8—13.12 (skip 13.11)'
+      ]
+    },
+    {
+      date: 'Tuesday Sep 27',
+      title:
         '[chapter 14 – visuals with canvas and animation](/ch14-canvas-animation/index.html)',
       content: [
         'Assignments 14.1 tot 14.5'
       ]
     },
     {
-      date: 'Tuesday Sep 27',
+      date: 'Wednesday Sep 28',
       title:
         '[chapter 14 – animation _(continued)_](/ch14-canvas-animation/index.html)',
       content: [
@@ -195,19 +201,11 @@ agenda.program = [
       ]
     },
     {
-      date: 'Wednesday Sep 28',
+      date: 'Thursday Sep 29',
       title:
         '[chapter 15 – active objects do it with methods](/ch15-methods/index.html)',
       content: [
         'Assignments 15.1—15.7'
-      ]
-    },
-    {
-      date: 'Thursday Sep 29',
-      title:
-        '[chapter 15 – active objects do it with methods _(continued)_](/ch15-methods/index.html)',
-      content: [
-        'Assignments 15.8—15.11'
       ]
     }
   ],
@@ -215,17 +213,18 @@ agenda.program = [
     {
       date: 'Monday Oct 3',
       title:
-        '[chapter 16 – final assignment javascript: Battleships](/javascript-battleships/index.html)',
+        '[chapter 15 – active objects do it with methods _(continued)_](/ch15-methods/index.html)',
       content: [
-        'introduction Battle Ships assignment',
-        'Video battleships code walkthrough'
+        'Assignments 15.8—15.11'
       ]
     },
     {
       date: 'Tuesday Oct 4',
-      title: '',
+      title:
+        '[chapter 16 – final assignment javascript: Battleships](/javascript-battleships/index.html)',
       content: [
-        'regular meeting schedule where we support making the assignment'
+        'introduction Battle Ships assignment',
+        'Video battleships code walkthrough'
       ]
     },
     {
