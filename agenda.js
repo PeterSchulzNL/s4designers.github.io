@@ -1,6 +1,6 @@
 const agenda = {}
 
-agenda.currentLesson = [7, 1] // [ week, lesson in week ] 1-based
+agenda.currentLesson = [8, 1] // [ week, lesson in week ] 1-based
 
 // All strings in this data will be preprocessed by a Markdown converter.
 // So you can use **bold**, _italic_ and [hyperlinks](http://www.example.com).
@@ -280,5 +280,11 @@ agenda.program = [
         '23:00: deadline [Inbraakalarm](/arduino-burglar-alarm/index.html)',
       content: []
     }
-  ]
+  ],
+  [ // week 8
+  {
+    date: 'Monday Oct 19',
+    title: '[Programmeer-platforms voor S4D-Project](/project-list.html)'
+  }
+]
 ]
