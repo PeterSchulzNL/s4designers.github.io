@@ -283,7 +283,7 @@ agenda.program = [
   ],
   [ // week 8
   {
-    date: 'Monday Oct 19',
+    date: '',
     title: '[Programmeer-platforms voor S4D-Project](/project-list.html)'
   }
 ]
