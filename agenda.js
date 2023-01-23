@@ -23,7 +23,7 @@ agenda.program = [
   // ],
   [ // week 1
     {
-      date: 'Monday Aug 29',
+      date: 'Monday Jan 30',
       title:
         '[chapter 2 – intro to JavaScript](/ch2-intro-javascript/index.html)',
       content: [
@@ -31,7 +31,7 @@ agenda.program = [
       ]
     },
     {
-      date: 'Tuesday Aug 30',
+      date: 'Tuesday Jan 31',
       title:
         '[chapter 1 – introduction to the Arduino](/ch1-intro-arduino/index.html)',
       content: [
@@ -40,7 +40,7 @@ agenda.program = [
       ]
     },
     {
-      date: 'Wednesday Aug 31',
+      date: 'Wednesday Feb 1',
       title:
         '[chapter 3 – interactivity in JavaScript with functions](/ch3-interactivity-functions/index.html)',
       content: [
@@ -49,7 +49,7 @@ agenda.program = [
       ]
     },
     {
-      date: 'Thursday Sep 1',
+      date: 'Thursday Feb 2',
       title:
         '[chapter 4 – calculations and storing results in variables](/ch4-calculations-variables/index.html)',
       content: [
@@ -60,7 +60,7 @@ agenda.program = [
   ],
   [ // week 2
     {
-      date: 'Monday Sep 5',
+      date: 'Monday Feb 6',
       title:
         '[chapter 5 – russian dolls for data: variables inside variables](/ch5-variables-inside-variables/index.html)',
       content: [
@@ -68,7 +68,7 @@ agenda.program = [
       ]
     },
     {
-      date: 'Tuesday Sep 6',
+      date: 'Tuesday Feb 7',
       title:
         "[chapter 6 – debugging code that doesn't work](/ch6-debugging/index.html)",
       content: [
@@ -77,7 +77,7 @@ agenda.program = [
       ]
     },
     {
-      date: 'Wednesday Sep 7',
+      date: 'Wednesday Feb 8',
       title:
         '[chapter 7 – how functions communicate: parameters and return values](/ch7-more-about-functions/index.html)',
       content: [
@@ -85,15 +85,7 @@ agenda.program = [
       ]
     },
     {
-      date: 'Thursday Sep 8',
-      title:
-        'Canceled',
-      content: []
-    }
-  ],
-  [ // week 3
-    {
-      date: 'Monday Sep 12',
+      date: 'Thursday Feb 9',
       title:
         '[chapter 7](/ch7-more-about-functions/index.html) and [chapter 8 – true, false, and choosing with if-statements](/ch8-true-false-if/index.html)',
       content: [
@@ -102,9 +94,11 @@ agenda.program = [
         "Bonus: 7.12.e, skip this if you don't have the time",
         'Assignments 8.3—8.6'
       ]
-    },
+    }
+  ],
+  [ // week 3
     {
-      date: 'Tuesday Sep 13',
+      date: 'Monday Feb 13',
       title:
         '[chapter 8 – true, false, and choosing with if-statements  _(continued)_](/ch8-true-false-if/index.html)',
       content: [
@@ -112,7 +106,7 @@ agenda.program = [
       ]
     },
     {
-      date: 'Wednesday Sep 14',
+      date: 'Tuesday Feb 14',
       title:
         '[chapter 9 – more about if-statements and conditions](/ch9-more-if-conditions/index.html)',
       content: [
@@ -124,7 +118,7 @@ agenda.program = [
       ]
     },
     {
-      date: 'Thursday Sep 15',
+      date: 'Wednesday Feb 15',
       title:
         '[chapter 10 – more about functions: local variables and side effects](/ch10-locals-and-side-effects/index.html)',
       content: [
@@ -135,11 +129,17 @@ agenda.program = [
         'Read textblock about side effects versus return values',
         'Assignments 10.5—10.7'
       ]
+    },
+    {
+      date: 'Thursday Feb 16',
+      title:
+        'No class',
+      content: []
     }
   ],
   [ // week 4
     {
-      date: 'Monday Sep 19',
+      date: 'Monday Feb 27',
       title:
         '[chapter 11 – fun with data types](/ch11-fun-with-datatypes/index.html)',
       content: [
@@ -148,7 +148,7 @@ agenda.program = [
       ]
     },
     {
-      date: 'Tuesday Sep 20',
+      date: 'Tuesday Feb 28',
       title: '[chapter 12 – recap](/ch12-recap/index.html)',
       content: [
         'Read: [What is a concept map?](https://cmap.ihmc.us/docs/conceptmap.php) (alleen inleiding),',
@@ -158,14 +158,14 @@ agenda.program = [
       ]
     },
     {
-      date: 'Wednesday Sep 21',
+      date: 'Wednesday Mar 1',
       title: '[chapter 12 – recap _(continued)_](/ch12-recap/index.html)',
       content: [
         'Finish assignments'
       ]
     },
     {
-      date: 'Thursday Sep 22',
+      date: 'Thursday Mar 2',
       title: '[chapter 13 – loops](/ch13-loops/index.html)',
       content: [
         'Assignments 13.2—13.3',
@@ -177,7 +177,7 @@ agenda.program = [
   
   [ // week 5
     {
-      date: 'Monday Sep 26',
+      date: 'Monday Mar 6',
       title:
         '[chapter 13 – loops _(continued)_](/ch13-loops/index.html)',
       content: [
@@ -185,7 +185,7 @@ agenda.program = [
       ]
     },
     {
-      date: 'Tuesday Sep 27',
+      date: 'Tuesday Mar 7',
       title:
         '[chapter 14 – visuals with canvas and animation](/ch14-canvas-animation/index.html)',
       content: [
@@ -193,7 +193,7 @@ agenda.program = [
       ]
     },
     {
-      date: 'Wednesday Sep 28',
+      date: 'Wednesday Mar 8',
       title:
         '[chapter 14 – animation _(continued)_](/ch14-canvas-animation/index.html)',
       content: [
@@ -201,7 +201,7 @@ agenda.program = [
       ]
     },
     {
-      date: 'Thursday Sep 29',
+      date: 'Thursday Mar 9',
       title:
         '[chapter 15 – active objects do it with methods](/ch15-methods/index.html)',
       content: [
@@ -211,7 +211,7 @@ agenda.program = [
   ],
   [ // week 6
     {
-      date: 'Monday Oct 3',
+      date: 'Monday Mar 13',
       title:
         '[chapter 16 – final assignment javascript: Battleships](/javascript-battleships/index.html)',
       content: [
@@ -220,62 +220,62 @@ agenda.program = [
       ]
     },
     {
-      date: 'Tuesday Oct 4',
+      date: 'Tuesday Mar 14',
       title: '',
       content: [
         'regular meeting schedule where we support making the assignment'
       ]
     },
     {
-      date: 'Wednesday Oct 5',
+      date: 'Wednesday Mar 15',
       title: '',
       content: [
         'regular meeting schedule where we support making the assignment'
       ]
     },
     {
-      date: 'Thursday Oct 6',
+      date: 'Thursday Mar 16',
       title: '',
       content: [
         'regular meeting schedule where we support making the assignment'
       ]
     },
     {
-      date: 'Sunday Oct 9',
+      date: 'Sunday Mar 19',
       title: '23:00: deadline [Zeeslag](/javascript-battleships/index.html)',
       content: []
     }
   ],
   [ // week 7
     {
-      date: 'Monday Oct 10',
+      date: 'Monday Mar 20',
       title:
         '[chapter 17 – final assignment Arduino: Inbraakalarm](/arduino-burglar-alarm/index.html)',
       content: ['introduction Arduino Alarm assignment']
     },
     {
-      date: 'Tuesday Oct 11',
+      date: 'Tuesday Mar 21',
       title: '',
       content: [
         'regular meeting schedule where we support making the assignment'
       ]
     },
     {
-      date: 'Wednesday Oct 12',
+      date: 'Wednesday Mar 22',
       title: '',
       content: [
         'regular meeting schedule where we support making the assignment'
       ]
     },
     {
-      date: 'Thursday Oct 13',
+      date: 'Thursday Mar 23',
       title: '',
       content: [
         'regular meeting schedule where we support making the assignment'
       ]
     },
     {
-      date: 'Sunday Oct 16',
+      date: 'Sunday Mar 26',
       title:
         '23:00: deadline [Inbraakalarm](/arduino-burglar-alarm/index.html)',
       content: []
@@ -284,7 +284,7 @@ agenda.program = [
   [ // week 8
   {
     date: 'Project',
-    title: '[Programmeer-platforms voor S4D-Project](/project-list.html)'
+    title: '[Introduction S4D-Projects](/project-list.html)'
   }
 ]
 ]
